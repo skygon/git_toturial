@@ -4,4 +4,3 @@ modification from issue2
 modification from issue3
 
 add new line
-add another line
